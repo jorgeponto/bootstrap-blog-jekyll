@@ -4,6 +4,8 @@ description:        Um tema da Start Bootstrap
 author:             Jorge Fernandes
 baseurl:            "/bootstrap-blog-jekyll"
 url:                "https://jorgeponto.github.io"
+# idioma principal do sítio Web
+lang:                pt-PT
 
 # Social Profiles
 twitter_username:   SBootstrap
