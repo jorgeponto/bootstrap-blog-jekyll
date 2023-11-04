@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html {% if site.lang %}lang="{{ site.lang }}"{% endif %}>
+<html {% if page.lang %}lang="{{ page.lang }}"{% endif %}{% if site.lang %}lang="{{ site.lang }}"{% endif %}>
 
 {% include head.html %}
 
