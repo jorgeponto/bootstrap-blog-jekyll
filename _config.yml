@@ -1,7 +1,7 @@
-title:              Clean Blog
+title:              O Meu Blog
 email:              jorge.fernandes@ama.gov.pt
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        Um Tema de Blog feito pela Start Bootstrap
+author:             Jorge Fernandes
 baseurl:            "/bootstrap-blog-jekyll"
 url:                "https://jorgeponto.github.io"
 
