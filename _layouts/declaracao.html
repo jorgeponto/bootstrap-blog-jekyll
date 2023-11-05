@@ -26,6 +26,11 @@ layout: default
   <div role="main" class="container">
 	  
 	  {{ content | size }}
+	  {% if content | size > 0 %}
+	    tem conteúdo
+	  {% else %}
+	    não tem conteúdo
+	  {% endif %}
 	  
   {% if content | size > 0 %}
   
