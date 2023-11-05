@@ -26,7 +26,7 @@ layout: default
   <div role="main" class="container">
 	  
 	  {{ content | size }}
-	  {% if content | size > 0 %}
+	  {% if content != empty %}
 	    tem conteúdo
 	  {% else %}
 	    não tem conteúdo
