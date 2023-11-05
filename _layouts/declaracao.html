@@ -24,14 +24,7 @@ layout: default
   </header>
 
   <div role="main" class="container">
-	  
-	  {{ content | size }}
-	  {% if content != empty %}
-	    tem conteúdo
-	  {% else %}
-	    não tem conteúdo
-	  {% endif %}
-	  
+
   {% if content != empty %}
   
     <div class="row">
@@ -59,8 +52,7 @@ layout: default
 
   {% else %}
 
-
-	  <p>página vazia!!</p>
+  <p>A página não tem conteúdo!!</p>
 	  
   {% endif %}
 	  
