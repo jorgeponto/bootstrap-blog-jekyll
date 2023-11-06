@@ -1,5 +1,7 @@
 # [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) - Official Jekyll Version
 
+<!-- Info adicional relativa ao Jekyll da Start Bootstrap
+
 [Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working contact form powered by [Formspree](https://formspree.io/).
 
 This repository holds the official Jekyll version of the Clean Blog theme on Start Bootstrap!
@@ -152,3 +154,5 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/blob/master/LICENSE) license.
+
+-->
