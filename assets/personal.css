@@ -1,0 +1,33 @@
+.mr-automatic-summary a {
+    text-decoration: underline;
+}
+
+.mr-manual-summary a {
+    text-decoration: underline;
+}
+
+.mr-users-summary a {
+    text-decoration: underline;
+}
+
+.mr-contacts a {
+    text-decoration: underline;
+}
+
+.container hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px;
+    border-top: 1px solid #212529;
+}
+
+.container dd {
+    margin-bottom: .5rem;
+    margin-left: 1rem;
+}
+
+ol, ul, dl {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    margin-left: 0.5rem;
+}
