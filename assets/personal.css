@@ -3,7 +3,12 @@
 div[role="main"] a {
     text-decoration: underline;
     color: #0085A1;
-} 
+}
+
+div[role="main"] a:focus, div[role="main"] a:hover {
+    color: #0085A1;
+    text-decoration: underline;
+}
 
 div[role="main"] nav a {
     text-decoration: none;
