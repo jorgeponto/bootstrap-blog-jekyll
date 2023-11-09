@@ -5,7 +5,7 @@ div[role="main"] a {
     color: #0085A1;
 } 
 
-nav a {
+div[role="main"] nav a {
     text-decoration: none;
     color: #212529;
 }
