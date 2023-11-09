@@ -1,17 +1,23 @@
+/* begin of CSS to Declaração de Acessibilidade */
+
 .mr-automatic-summary a {
     text-decoration: underline;
+    color: #0085A1;
 }
 
 .mr-manual-summary a {
     text-decoration: underline;
+    color: #0085A1;
 }
 
 .mr-users-summary a {
     text-decoration: underline;
+    color: #0085A1;
 }
 
 .mr-contacts a {
     text-decoration: underline;
+    color: #0085A1;
 }
 
 .container hr {
@@ -31,3 +37,5 @@ ol, ul, dl {
     margin-bottom: 1.5rem;
     margin-left: 0.5rem;
 }
+/* end of CSS to Declaração de Acessibilidade */
+
