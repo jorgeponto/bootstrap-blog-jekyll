@@ -1,23 +1,13 @@
 /* begin of CSS to Declaração de Acessibilidade */
 
-.mr-automatic-summary a {
+div[role="main"] a {
     text-decoration: underline;
     color: #0085A1;
-}
+} 
 
-.mr-manual-summary a {
-    text-decoration: underline;
-    color: #0085A1;
-}
-
-.mr-users-summary a {
-    text-decoration: underline;
-    color: #0085A1;
-}
-
-.mr-contacts a {
-    text-decoration: underline;
-    color: #0085A1;
+nav a {
+    text-decoration: none;
+    color: #212529;
 }
 
 .container hr {
